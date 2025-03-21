@@ -1,0 +1,67 @@
+2025-03-21 13:28:07,964 - INFO - Conectado ao servidor 127.0.0.1:557
+2025-03-21 13:28:08,077 - INFO - Inicializando HistoricalData
+2025-03-21 13:28:08,078 - INFO - Nenhum arquivo de dados históricos encontrado. Iniciando vazio.
+2025-03-21 13:28:08,162 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:08,349 - WARNING - Linha BRKSLD com campos insuficientes: 4 campos
+2025-03-21 13:28:08,350 - INFO - Último preço atualizado: 132940.0
+2025-03-21 13:28:08,350 - INFO - Último preço atualizado: 132940.0
+2025-03-21 13:28:08,350 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:08,353 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:08.350720, Valores: passive_liquido=473665220.0, passive_varejo=599692340.0, aggressive_varejo=-787696088.0, net_varejo=-188003748.0
+2025-03-21 13:28:08,354 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:09,200 - INFO - Último preço atualizado: 132950.0
+2025-03-21 13:28:09,200 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:09,201 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:09.200806, Valores: passive_liquido=467079940.0, passive_varejo=593409030.0, aggressive_varejo=-782384160.0, net_varejo=-188975130.0
+2025-03-21 13:28:09,202 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:09,490 - INFO - Último preço atualizado: 132945.0
+2025-03-21 13:28:09,490 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:09,491 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:09.490925, Valores: passive_liquido=467062374.0, passive_varejo=593386713.0, aggressive_varejo=-782354736.0, net_varejo=-188968023.0
+2025-03-21 13:28:09,492 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:09,768 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:09,769 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:09.768354, Valores: passive_liquido=467062374.0, passive_varejo=593386713.0, aggressive_varejo=-782354736.0, net_varejo=-188968023.0
+2025-03-21 13:28:09,770 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:10,018 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:10,019 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:10.018081, Valores: passive_liquido=466982607.0, passive_varejo=593306946.0, aggressive_varejo=-782328147.0, net_varejo=-189021201.0
+2025-03-21 13:28:10,020 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:10,284 - INFO - Último preço atualizado: 132945.0
+2025-03-21 13:28:10,284 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:10,286 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:10.284788, Valores: passive_liquido=466982607.0, passive_varejo=593306946.0, aggressive_varejo=-782328147.0, net_varejo=-189021201.0
+2025-03-21 13:28:10,287 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:10,579 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:10,581 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:10.579189, Valores: passive_liquido=467115552.0, passive_varejo=593439891.0, aggressive_varejo=-782461092.0, net_varejo=-189021201.0
+2025-03-21 13:28:10,582 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:10,873 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:10,875 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:10.873872, Valores: passive_liquido=467115552.0, passive_varejo=593439891.0, aggressive_varejo=-782461092.0, net_varejo=-189021201.0
+2025-03-21 13:28:10,876 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:11,137 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:11,138 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:11.137562, Valores: passive_liquido=467142141.0, passive_varejo=593466480.0, aggressive_varejo=-782487681.0, net_varejo=-189021201.0
+2025-03-21 13:28:11,139 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:11,405 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:11,406 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:11.405036, Valores: passive_liquido=467461209.0, passive_varejo=593732370.0, aggressive_varejo=-782487681.0, net_varejo=-188755311.0
+2025-03-21 13:28:11,407 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:11,684 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:11,685 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:11.683968, Valores: passive_liquido=467487798.0, passive_varejo=593758959.0, aggressive_varejo=-782514270.0, net_varejo=-188755311.0
+2025-03-21 13:28:11,686 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:11,953 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:11,955 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:11.953951, Valores: passive_liquido=467487798.0, passive_varejo=593758959.0, aggressive_varejo=-782514270.0, net_varejo=-188755311.0
+2025-03-21 13:28:11,956 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:12,211 - INFO - Último preço atualizado: 132940.0
+2025-03-21 13:28:12,212 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:12,213 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:12.212682, Valores: passive_liquido=467337276.0, passive_varejo=593656864.0, aggressive_varejo=-782511428.0, net_varejo=-188854564.0
+2025-03-21 13:28:12,214 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:12,467 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:12,469 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:12.467874, Valores: passive_liquido=467762684.0, passive_varejo=594082272.0, aggressive_varejo=-782936836.0, net_varejo=-188854564.0
+2025-03-21 13:28:12,470 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:12,716 - INFO - Último preço atualizado: 132945.0
+2025-03-21 13:28:12,717 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:12,718 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:12.717321, Valores: passive_liquido=467780277.0, passive_varejo=594104616.0, aggressive_varejo=-782966283.0, net_varejo=-188861667.0
+2025-03-21 13:28:12,719 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:12,971 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:12,973 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:12.971890, Valores: passive_liquido=467780277.0, passive_varejo=594104616.0, aggressive_varejo=-782966283.0, net_varejo=-188861667.0
+2025-03-21 13:28:12,974 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:13,225 - INFO - Último preço atualizado: 132950.0
+2025-03-21 13:28:13,226 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:13,227 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:13.226071, Valores: passive_liquido=468196720.0, passive_varejo=594499220.0, aggressive_varejo=-783394580.0, net_varejo=-188895360.0
+2025-03-21 13:28:13,227 - INFO - Dados históricos salvos com sucesso.
+2025-03-21 13:28:13,493 - INFO - Novos dados recebidos, atualizando interface
+2025-03-21 13:28:13,494 - DEBUG - Ponto adicionado - Timestamp: 2025-03-21 13:28:13.493292, Valores: passive_liquido=468116950.0, passive_varejo=594419450.0, aggressive_varejo=-783394580.0, net_varejo=-188975130.0
+2025-03-21 13:28:13,495 - INFO - Dados históricos salvos com sucesso.
